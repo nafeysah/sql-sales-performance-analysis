@@ -21,17 +21,17 @@ messy: 4 different date formats, split product categories (e.g.
    Port-Harcourt trails all regions (₦46.2M).
 2. Laptops are the single biggest revenue driver (₦116.7M).
 3. Four of six regions perform above the company average revenue.
-4. Only 26.12% of orders reach Completed status — 51.55% are lost to
+4. Only 26.12% of orders reach Completed status; 51.55% are lost to
    Cancellations and Refunds combined.
-5. Sales rep performance varies significantly within regions — in
+5. Sales rep performance varies significantly within regions in
    Abuja, the top performer generated over 3x the lowest-ranked rep.
 
 ## Recommendations
-1. Investigate the Cancelled/Refunded rate first — likely the
+1. Investigate the Cancelled/Refunded rate first, likely the
    highest-impact issue in the dataset.
 2. Investigate underperformance in Port-Harcourt and Enugu.
 3. Prioritize Laptops in inventory/marketing given their revenue share.
-4. Review sales rep training — significant within-region performance gaps.
+4. Review sales rep training to address significant within-region performance gaps.
 
 ## SQL Queries
 See `sales_analysis.sql` for the full set of queries with comments.
